@@ -11,3 +11,6 @@ Resaspi
 Création de la todolist des développeurs
 
 Création de la todolist contenant les choix techniques de l'équipe technique
+
+Application lourde :
+Technologie Swing
